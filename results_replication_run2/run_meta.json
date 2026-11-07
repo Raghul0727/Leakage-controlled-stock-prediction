@@ -1,0 +1,1 @@
+{"elapsed_sec": 1875.7845358848572, "features": ["r1", "r2", "r3", "r4", "r5", "mom5", "mom10", "mom20", "c_sma5", "c_sma10", "c_sma20", "sma5_20", "macd", "macd_sig", "macd_hist", "rsi14", "bb_pctb", "bb_width", "vol10", "vol20", "atr14", "stoch_k", "hl_range", "vol_chg"], "tickers": ["AAPL", "MSFT", "AMZN", "JPM", "XOM", "JNJ", "WMT", "PG", "KO", "CSCO"]}

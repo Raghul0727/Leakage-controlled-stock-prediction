@@ -1,0 +1,19 @@
+{
+ "top5_global": [
+  "r1",
+  "atr14",
+  "r4",
+  "c_sma5",
+  "hl_range"
+ ],
+ "block_spearman_mean": 0.9859420289855071,
+ "block_spearman_min": 0.9739130434782609,
+ "block_top5_jaccard_mean": 0.8333333333333334,
+ "window_spearman_mean": 0.7086956521739131,
+ "window_spearman_min": 0.5452173913043479,
+ "control_block_spearman_mean": 0.9814492753623189,
+ "control_test_auc": 0.514171976962907,
+ "spearman_default_vs_tuned_xgb": 0.7391304347826086,
+ "spearman_xgb_vs_rf_tuned": 0.8434782608695651,
+ "spearman_shap_vs_permutation": -0.44
+}

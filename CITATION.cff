@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "A Leakage-Controlled Test of Machine-Learning Stock Prediction: code and data"
+authors:
+  - family-names: "V"
+    given-names: "Raghul"
+  - family-names: "D"
+    given-names: "Akash"
+  - family-names: "Sikder"
+    given-names: "Sayan"
+license: MIT
+repository-code: "https://github.com/USER/REPO"
+# doi: "10.5281/zenodo.XXXXXXX"   # add after the first Zenodo release

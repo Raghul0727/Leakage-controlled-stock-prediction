@@ -1,0 +1,11 @@
+{
+ "n_runs": 5,
+ "vary_seed": true,
+ "sharpe_mean": 1.2915582523277642,
+ "sharpe_sd": 0.3385274642880189,
+ "sharpe_min": 0.918990852765276,
+ "sharpe_max": 1.7830554464913315,
+ "exposure_mean": 0.17731884057971015,
+ "exposure_sd": 0.033075959753748496,
+ "decision_logs_byte_identical": false
+}

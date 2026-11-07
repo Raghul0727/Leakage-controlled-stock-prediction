@@ -1,0 +1,21 @@
+{
+ "sharpe_reproduced": -0.08316483360535007,
+ "n_days": 276,
+ "exposure": 0.23369565217391303,
+ "turnover_per_stock_per_year": 20.999999999999996,
+ "random_sharpe_mean": 0.07541582460227929,
+ "random_sharpe_sd": 0.8567739806561474,
+ "random_sharpe_p5": -1.3596375399333493,
+ "random_sharpe_p50": 0.07213776473046019,
+ "random_sharpe_p95": 1.4429339419554794,
+ "engine_percentile_in_random": 41.099999999999994,
+ "p_random_ge_engine": 0.589,
+ "random_ann_return_mean": 0.002071859409687991,
+ "n_trials_for_dsr": 11,
+ "trial_sharpe_sd_annualised": 0.9580239282103605,
+ "sr0_annualised": 1.5541067511195796,
+ "deflated_sharpe_prob": 0.04352241874488015,
+ "skew": -0.19056308236638939,
+ "kurtosis": 3.5499120453192003,
+ "n_random": 1000
+}

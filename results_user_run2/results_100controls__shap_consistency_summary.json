@@ -1,0 +1,51 @@
+{
+ "top5_global": [
+  "r1",
+  "atr14",
+  "r4",
+  "c_sma5",
+  "macd_sig"
+ ],
+ "block_spearman_mean": 0.9872463768115942,
+ "block_spearman_min": 0.9817391304347826,
+ "block_top5_jaccard_mean": 0.8333333333333334,
+ "window_spearman_mean": 0.6553623188405797,
+ "window_spearman_min": 0.5608695652173913,
+ "control_block_spearman_mean": 0.9890541317022076,
+ "control_test_auc": 0.5002465541872194,
+ "controls": {
+  "n_controls": 100,
+  "real_block_spearman": 0.9872463768115942,
+  "real_window_spearman": 0.6553623188405797,
+  "real_seed_spearman": 0.9631884057971014,
+  "control_block_spearman": {
+   "mean": 0.9890541317022076,
+   "sd": 0.0062396216427983405,
+   "min": 0.9687862950058074,
+   "max": 1.0
+  },
+  "control_window_spearman": {
+   "mean": 0.35820335507347023,
+   "sd": 0.14777721062323212,
+   "min": 0.0878640137734712,
+   "max": 0.688529956982214
+  },
+  "control_seed_spearman": {
+   "mean": 0.8169515698340559,
+   "sd": 0.08936703302624904,
+   "min": 0.4691992086328371,
+   "max": 0.9579710144927537
+  },
+  "control_test_auc": {
+   "mean": 0.501924581373188,
+   "sd": 0.010658833527365099,
+   "min": 0.47519501035633294,
+   "max": 0.530068511938455
+  },
+  "share_controls_window_ge_real": 0.02,
+  "share_controls_seed_ge_real": 0.0
+ },
+ "spearman_default_vs_tuned_xgb": 0.7026086956521739,
+ "spearman_xgb_vs_rf_tuned": 0.7460869565217391,
+ "spearman_shap_vs_permutation": -0.17217391304347823
+}

@@ -1,0 +1,19 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.zip
+send_me/
+results_quick/
+results_repeat/
+results_repeat_seeds/
+# wide-panel price files (third-party data; re-download, see README)
+data/stocks_2010_2025.csv
+data/stocks_2016_2025.csv
+data/nifty50_2010_2025.csv
+data/us2010_clean.csv
+data/nifty_clean.csv
+results_wf_xgb_us/prices_used.csv
+results_wf_xgb_nifty/prices_used.csv

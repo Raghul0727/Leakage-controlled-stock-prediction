@@ -1,0 +1,21 @@
+ticker,source,n_common_days,share_days_matched,p99_abs_return_diff,max_abs_return_diff,n_days_diff_gt_1pct,dates_diff_gt_1pct,passed,error
+AAPL,yahoo,1259.0,1.0,3.970628691592149e-05,0.057419435472751745,2.0,2017-08-01;2017-08-02,False,
+AAPL,stooq,,,,,,,,HTTP Error 404: Not Found
+AMZN,yahoo,1259.0,1.0,1.3482936075568386e-05,0.0039685296220624,0.0,,True,
+AMZN,stooq,,,,,,,,HTTP Error 404: Not Found
+CSCO,yahoo,1259.0,1.0,0.00023942085310591055,0.0004279532200734959,0.0,,True,
+CSCO,stooq,,,,,,,,HTTP Error 404: Not Found
+JNJ,yahoo,1259.0,1.0,9.491439409092811e-08,0.018658673874748732,2.0,2017-08-22;2017-08-23,False,
+JNJ,stooq,,,,,,,,HTTP Error 404: Not Found
+JPM,yahoo,1259.0,1.0,9.433585462681471e-08,0.00265957193846289,0.0,,True,
+JPM,stooq,,,,,,,,HTTP Error 404: Not Found
+KO,yahoo,1259.0,1.0,8.741935657030637e-08,0.033284080432977925,2.0,2014-10-29;2014-10-30,False,
+KO,stooq,,,,,,,,HTTP Error 404: Not Found
+MSFT,yahoo,1259.0,1.0,0.00017516277013061022,0.0003207574589920714,0.0,,True,
+MSFT,stooq,,,,,,,,HTTP Error 404: Not Found
+PG,yahoo,1259.0,1.0,8.901884631207226e-08,0.0018656905849763206,0.0,,True,
+PG,stooq,,,,,,,,HTTP Error 404: Not Found
+WMT,yahoo,1259.0,1.0,1.0004962864851317e-07,0.00014503039364299752,0.0,,True,
+WMT,stooq,,,,,,,,HTTP Error 404: Not Found
+XOM,yahoo,1259.0,1.0,8.13902424323666e-08,0.010854840452477088,2.0,2014-07-28;2014-07-29,False,
+XOM,stooq,,,,,,,,HTTP Error 404: Not Found

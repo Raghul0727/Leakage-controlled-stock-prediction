@@ -1,0 +1,26 @@
+{
+ "n_years": 13,
+ "years_auc_gt_0_5": 12,
+ "years_acc_gt_majority": 3,
+ "years_logloss_lt_constant": 4,
+ "mean_auc": 0.5106948721794794,
+ "sd_auc": 0.009313566197645203,
+ "mean_engine_percentile": 46.699999999999996,
+ "years_engine_above_random_median": 6,
+ "years_engine_sharpe_above_bh": 1,
+ "falling_or_volatile_years": [
+  2015,
+  2018,
+  2020,
+  2022
+ ],
+ "effective_sample_note": "observations on one date are correlated: effective n is closer to the number of dates than of stock-days",
+ "pooled_auc_ci95": [
+  0.501026437067746,
+  0.5130769395138552
+ ],
+ "pooled_acc_ci95": [
+  0.5146908109856844,
+  0.5293137413488312
+ ]
+}

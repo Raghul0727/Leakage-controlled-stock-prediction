@@ -1,0 +1,36 @@
+{
+ "rf|random|0": {
+  "n_estimators": 197,
+  "max_depth": 6,
+  "min_samples_leaf": 106,
+  "max_features": 0.38800271388880697
+ },
+ "rf|bayes|0": {
+  "n_estimators": 197,
+  "max_depth": 6,
+  "min_samples_leaf": 106,
+  "max_features": 0.38800271388880697
+ },
+ "xgb|random|0": {
+  "n_estimators": 285,
+  "max_depth": 3,
+  "learning_rate": 0.00804484475314037,
+  "subsample": 0.6577141754620919,
+  "colsample_bytree": 0.6182264625655736,
+  "min_child_weight": 10.32514359603879,
+  "reg_lambda": 0.41915421923388757,
+  "reg_alpha": 8.984529773922546,
+  "gamma": 0.5102240537401403
+ },
+ "xgb|bayes|0": {
+  "n_estimators": 242,
+  "max_depth": 6,
+  "learning_rate": 0.04619905512862269,
+  "subsample": 0.7724415914984484,
+  "colsample_bytree": 0.6541928796033428,
+  "min_child_weight": 14.076588813455595,
+  "reg_lambda": 0.41554873897905015,
+  "reg_alpha": 3.6905577292137615,
+  "gamma": 4.818313802505147
+ }
+}

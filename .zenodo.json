@@ -1,0 +1,11 @@
+{
+  "title": "A Leakage-Controlled Test of Machine-Learning Stock Prediction: code and data",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "V, Raghul", "affiliation": "Vellore Institute of Technology"},
+    {"name": "D, Akash", "affiliation": "Vellore Institute of Technology"},
+    {"name": "Sikder, Sayan", "affiliation": "Vellore Institute of Technology"}
+  ],
+  "keywords": ["stock prediction", "SHAP", "Bayesian optimisation", "backtesting", "negative results"]
+}

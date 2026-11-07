@@ -1,0 +1,27 @@
+{
+ "n_years": 7,
+ "n_stocks": 59,
+ "years_auc_gt_0_5": 4,
+ "years_acc_gt_majority": 1,
+ "years_logloss_lt_constant": 2,
+ "mean_auc": 0.5049020436528145,
+ "sd_auc": 0.008559620483336826,
+ "mean_acc": 0.5203856839073658,
+ "mean_engine_sharpe": 0.08231266063077414,
+ "mean_bh_sharpe": 0.967215175382415,
+ "mean_engine_percentile": 36.17142857142857,
+ "years_engine_above_random_median": 3,
+ "years_engine_sharpe_above_bh": 0,
+ "falling_or_volatile_years": [
+  2020,
+  2022
+ ],
+ "pooled_auc_ci95": [
+  0.4954739230432831,
+  0.5112702849957727
+ ],
+ "pooled_acc_ci95": [
+  0.5103714737471318,
+  0.5312161354389618
+ ]
+}
